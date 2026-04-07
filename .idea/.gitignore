@@ -1,0 +1,20 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+gen/
+
+# File di sistema
+.DS_Store
+Thumbs.db
+
+# LeetCode Plugin - File temporanei e log
+# Ignoriamo le sottomissioni passate (i .txt) e i file binari delle soluzioni (.lcv)
+**/doc/submission/
+**/doc/solution/
+*.txt
+*.lcv
+
+# Opzionale: se vuoi tenere solo il codice Java e non le descrizioni .md
+# (Togli il commento sotto se preferisci non caricare i testi dei problemi)
+# **/doc/content/
