@@ -1,0 +1,7 @@
+# IntelliJ
+.idea/
+
+# Gradle/Maven (se presenti in futuro)
+build/
+target/
+*.class

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d6c8cebb-fe15-4260-951c-d2194e8d2f19" name="Changes" comment="Duplicate" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;crimolf&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/crimolf/leetcode-practice.git&quot;,
+    &quot;accountId&quot;: &quot;f1c3482c-d8c5-4df6-9ec4-83fcbbd7a205&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3CUpIDJq4VUrwqcRioLeDApdafG" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/crimolf/IdeaProjects/leetcode-practice",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.propVCSSupport.Confirmation",
+    "settings.editor.splitter.proportion": "0.26138434"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6c8cebb-fe15-4260-951c-d2194e8d2f19" name="Changes" comment="" />
+      <created>1776449920413</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1776449920413</updated>
+    </task>
+    <task id="LOCAL-00001" summary="two sum">
+      <option name="closed" value="true" />
+      <created>1776636734975</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1776636734975</updated>
+    </task>
+    <task id="LOCAL-00002" summary="changed template and folders structure">
+      <option name="closed" value="true" />
+      <created>1776687647738</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1776687647738</updated>
+    </task>
+    <task id="LOCAL-00003" summary="changed template and folders structure">
+      <option name="closed" value="true" />
+      <created>1776688173485</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1776688173485</updated>
+    </task>
+    <task id="LOCAL-00004" summary="changed template and folders structure">
+      <option name="closed" value="true" />
+      <created>1776688342038</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1776688342038</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Palindrome">
+      <option name="closed" value="true" />
+      <created>1776720942160</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1776720942160</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Anagram">
+      <option name="closed" value="true" />
+      <created>1776721543770</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1776721543770</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Duplicate">
+      <option name="closed" value="true" />
+      <created>1776721992797</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1776721992797</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="two sum" />
+    <MESSAGE value="changed template and folders structure" />
+    <MESSAGE value="Palindrome" />
+    <MESSAGE value="Anagram" />
+    <MESSAGE value="Duplicate" />
+    <option name="LAST_COMMIT_MESSAGE" value="Duplicate" />
+  </component>
+</project>
