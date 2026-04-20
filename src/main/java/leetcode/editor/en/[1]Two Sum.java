@@ -1,4 +1,4 @@
-//Given an array of integers nums and an integer target, return indices of the 
+package leetcode.editor.en;//Given an array of integers nums and an integer target, return indices of the
 //two numbers such that they add up to target. 
 //
 // You may assume that each input would have exactly one solution, and you may 
@@ -44,7 +44,7 @@
 //O(n²)
 // time complexity?
 //
-// Related Topics Array Hash Table 👍 68704 👎 2570
+// Related Topics Array Hash Table 👍 68714 👎 2570
 
 
 import java.util.HashMap;
