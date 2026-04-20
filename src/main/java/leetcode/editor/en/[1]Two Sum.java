@@ -1,4 +1,6 @@
-package leetcode.editor.en;//Given an array of integers nums and an integer target, return indices of the
+package leetcode.editor.en.p1;
+
+//Given an array of integers nums and an integer target, return indices of the 
 //two numbers such that they add up to target. 
 //
 // You may assume that each input would have exactly one solution, and you may 
