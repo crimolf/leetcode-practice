@@ -35,10 +35,21 @@ package leetcode.editor.en.p242;
 // Related Topics Hash Table String Sorting 👍 14372 👎 480
 
 
+import java.util.Arrays;
+import java.util.HashMap;
+import java.util.Map;
+
 //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
     public boolean isAnagram(String s, String t) {
-        
+
+        char[]a=s.toCharArray();
+        char[]b=t.toCharArray();
+        Arrays.sort(a);
+        Arrays.sort(b);
+        return Arrays.equals(a, b);
+
+
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)
